@@ -1,0 +1,5 @@
+- Jason to continue exploring structured outputs and RAG.
+- Hamel to share insights on his work with Answer.ai.
+- Eugene to research the integration of LLMs in recommendation systems.
+- Collaborate on improving generative AI integration without distracting from the main user experience.
+- Investigate new research papers related to learning models and effective use cases.
